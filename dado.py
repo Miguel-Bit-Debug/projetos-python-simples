@@ -23,3 +23,4 @@ while True:
 
     except:
         print('Erro interno')
+        
