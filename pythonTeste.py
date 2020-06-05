@@ -1,1 +1,3 @@
 print()
+def a():
+    pass
